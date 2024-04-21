@@ -6,7 +6,7 @@ import java.util.List;
 public class SimpleLinkedList {
     public static void main(String[] args) {
         List<Integer> list=new LinkedList<>();
-        //доавление в хвост(конец)
+        //добавление в хвост(конец)
         list.add(5);
         list.add(8);
         list.add(2);
