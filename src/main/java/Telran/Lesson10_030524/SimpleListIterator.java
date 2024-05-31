@@ -1,4 +1,4 @@
-package Lesson10_030524;
+package Telran.Lesson10_030524;
 
 import java.util.*;
 

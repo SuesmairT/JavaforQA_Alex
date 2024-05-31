@@ -1,4 +1,4 @@
-package HW210524;
+package Telran.HW210524;
 
 import java.util.*;
 

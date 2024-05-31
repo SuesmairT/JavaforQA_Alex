@@ -1,4 +1,4 @@
-package HW220524;
+package Telran.HW220524;
 
 import java.util.Deque;
 import java.util.LinkedList;
