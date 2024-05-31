@@ -1,4 +1,4 @@
-package Telran.HW280524;
+package HW280524;
 
 import java.util.function.Predicate;
 
